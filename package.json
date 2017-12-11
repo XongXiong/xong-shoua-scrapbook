@@ -1,0 +1,20 @@
+{
+  "name": "xong-shoua-scrapbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XongXiong/xong-shoua-scrapbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XongXiong/xong-shoua-scrapbook/issues"
+  },
+  "homepage": "https://github.com/XongXiong/xong-shoua-scrapbook#readme"
+}

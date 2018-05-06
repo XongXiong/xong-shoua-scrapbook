@@ -19,9 +19,6 @@ app.use(express.static('./server/public'));
 // Routes
 app.use('/post', postRouter);
 
-//DB Module
-let db = require('./modules/db.config.js');
-
 // Listen //
 app.listen(port, function () {
     console.log('Listening on port', port);
